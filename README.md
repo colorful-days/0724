@@ -9,8 +9,8 @@
 ``` 
   ## Check model in ./models   
   ## e.g., pointnet2_ssg  
-  python train_partseg.py --model pointnet2_part_seg_msg --normal --log_dir pointnet2_part_seg_msg  
-  python test_partseg.py --normal --log_dir pointnet2_part_seg_msg
+  python train_partseg.py --model pointnet2_part_seg_msg --log_dir pointnet2_part_seg_msg  
+  python test_partseg.py --log_dir pointnet2_part_seg_msg
  ``` 
 # Reference By  
  https://github.com/charlesq34/pointnet  
