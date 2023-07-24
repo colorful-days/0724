@@ -1,4 +1,4 @@
-# Body Weight Estimation of Beef Cattle with 3D Deep Learning Model: PointNet++
+## Body Weight Estimation of Beef Cattle with 3D Deep Learning Model: PointNet++
 
 # Requirements  
   -Python 3.7  
