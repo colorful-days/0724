@@ -8,6 +8,7 @@
   python test_partseg.py --normal --log_dir pointnet2_part_seg_msg
 # Visualization
 # Reference By  
-  fxia22/pointnet.pytorch  
+  [fxia22/pointnet.pytorch]
+  (https://github.com/charlesq34/pointnet)
   charlesq34/PointNet  
   charlesq34/PointNet++
