@@ -11,9 +11,10 @@
  https://github.com/charlesq34/pointnet2
  # Citation
 
-> @article{Pytorch_Pointnet_Pointnet2,
-      Author = {Xu Yan},
-      Title = {Pointnet/Pointnet++ Pytorch},
-      Journal = {https://github.com/yanx27/Pointnet_Pointnet2_pytorch},
-      Year = {2019} }
+> @article{Pytorch_Pointnet_Pointnet2,  
+      Author = {Xu Yan},  
+      Title = {Pointnet/Pointnet++ Pytorch},  
+      Journal = {https://github.com/yanx27/Pointnet_Pointnet2_pytorch},  
+      Year = {2019}  
+}
 
