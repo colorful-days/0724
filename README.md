@@ -6,3 +6,8 @@
 # Run
   python train_partseg.py --model pointnet2_part_seg_msg --normal --log_dir pointnet2_part_seg_msg  
   python test_partseg.py --normal --log_dir pointnet2_part_seg_msg
+# Visualization
+# Reference By  
+  fxia22/pointnet.pytorch  
+  charlesq34/PointNet  
+  charlesq34/PointNet++
