@@ -8,7 +8,7 @@
   python test_partseg.py --normal --log_dir pointnet2_part_seg_msg
 # Visualization
 # Reference By  
-  [baidu]  
-    (https://github.com/charlesq34/pointnet)
-  charlesq34/PointNet  
-  charlesq34/PointNet++
+ https://github.com/charlesq34/pointnet  
+ https://github.com/charlesq34/pointnet2
+ 
+ 
